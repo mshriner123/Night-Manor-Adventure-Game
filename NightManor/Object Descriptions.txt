@@ -1,0 +1,28 @@
+Cell One Door
+The door to prison cell one is made of iron, has no door handle on the inside, and is covered in shallow scratch marks.
+There is a key hole, however.
+
+Cell Two Door
+The door to prison cell two is nearly identical to the door to prison cell one. It is also made of iron, has no door handle 
+on the inside, and has a key hole.
+
+Cell Three Door
+The door to prison cell three is an iron door with only one door handle on the side that faces outward from the prison cell and 
+has a key hole.
+
+The key to prison cell three
+The key to cell three is a rusty, iron key with a single rectangular bit.
+
+The key to prison cell one
+The key to cell one is an old, iron key with two rectangular bits.
+
+The key to the informal dining room
+This key is gold with a red head and three rectangular bits.
+
+The Kitchen Cabinet
+A gold key with a red head rests next to a small candle on the middle shelf. The other shelves are empty.
+
+The Master Bedroom Cabinet
+There is an aged map with crisp edges in this cabinet. It appears to be a map of the manor. After
+taking this map, if you would like to use it, enter "use map".
+

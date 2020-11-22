@@ -1,0 +1,18 @@
+first appearance
+SUDDENLY, a ghost wearing ethereal chains and rags for clothes rushes through the wall!
+He stops inches from you and says that he wants to make a deal. Do you want to listen to his deal?
+Reply with: ghost, yes or ghost, no.
+>
+
+deal
+I have been trapped in this mansion for ages. If you find a way to release me from my eternal
+bond with Night Manor, I will unlock this door and set you free from your cell. Also, you will need my 
+help navigating the halls and rooms of this manor if you want to survive the night. I will include that in 
+my offer. Do we have a deal?
+
+no deal
+The ghost wishes you luck and says that it won't be long before they come for you. He'll see you soon.
+Shortly after, your door swings open. Three figures with chalk white skin and black cloaks step through the doorway, 
+but before you can see any more details, a thick fog fills the room, and you have no way to defend yourself.
+Now, you are eternally bonded to Night Manor. You will have to wander these halls as a ghost for
+eternity.

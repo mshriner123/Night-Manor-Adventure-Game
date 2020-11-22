@@ -1,0 +1,240 @@
+Prison Cell One
+Prison Cell One
+You are in a cold, damp prison cell. There are three rough grey walls to the west, south, and east, and 
+to the north are thick iron bars that stretch from the ceiling to the floor.Also to the north is a heavy 
+iron door with no door handle and shallow scratch marks. There are blood stains on the floor.
+
+Prison Cell Two
+Prison Cell Two
+There are three rough grey walls to the south, west, and east, and there is a rusted bucket in the 
+corner of the room.
+
+Prison Cell Three
+Prison Cell Three
+There are walls to the south, west, and east. There are a few bloody articles of clothing, a shirt and a jacket.
+Along the south wall, there is a wooden bench, and there may be something underneath it. It has an peculiar, lumpy, slightly
+deflated shape. As you get closer to it, you realize it is a large treasure bag. That may be useful later.
+
+Center Prison Hall
+Center Prison Hall
+The left side of the prison hall is to the west, and the right side of the prison hall is to the east.
+A bronze oil lamp illuminates the stone walls and hangs from an intricately designed ceiling. There is a prison 
+cell to the south, and there is a doorway to the north that leads out of the prison.
+
+West Prison Hall
+West Prison Hall
+There is a prison cell to the south, a wall to the west and north, and the center of the prison hall is to the east. 
+A bronze lantern hangs overhead and illuminates the left side of the hall.
+
+East Prison Hall
+East Prison Hall
+There is a prison cell to the south, a wall to the east and north, and the center of the prison hall is to the left.
+There is a bronze lantern hanging from the ceiling and a wooden chair is pushed up against the wall, but it looks like
+it would collapse if you tried to sit on it. A key is hanging from a hook in the wall.
+
+Maze
+Maze
+You are standing in front of the entrance to a maze. Each room of the maze has grey, stone walls.
+Lanterns are mounted on the walls so that you are not in pitch darkness. There is only one exit.
+You can move west, east, north, or south. If you can't solve the maze, just say solve or hint, 
+and Novak will help you. Step forward to enter the maze.
+
+Kitchen
+Kitchen
+There is a wooden island in the center of the room. Pots and pans hang above a large stove. Next to the stove are 
+kitchen knives in a dock and an assortment of spices and herbs. There is a wooden cabinet above the knives, and
+it has carvings of wolves on it. An apple, banana, and bread lie on the kitchen island. There is a door to the west, 
+north, and east.
+
+Wine Cellar 
+Wine Cellar 
+You descend wooden stairs into a large cellar that is divided into three sections. There is a curved stone ceiling 
+above each section and pillars rise to the ceiling in between each room. Racks of wine bottles lie along the back wall 
+of the eastern section, the center section contains a seating area with a table and chairs, and the western section is 
+full of barrels that probably hold wine. 
+
+North Wine Cellar
+North Wine Cellar 
+Dusty bottles of wine line the west wall. There are hundreds of bottles that haven't been touched in ages. 
+A wooden door that looks equally old as the wine but was definitely used more recently is to the north. 
+
+Center Wine Cellar 
+Center Wine Cellar 
+There is a table in the middle of the room with candles that were recently extinguished and a half-full goblet of wine. 
+A few chairs circle the table. 
+
+South Wine Cellar 
+South Wine Cellar
+The west side of the wine cellar smells strongly of wine and old wood. There are dozens of wooden barrels.
+Most of the barrels look worn down and old, but a few in the back corner look newer than the rest. Any path to
+them is blocked by the other barrels. 
+
+Informal Dining Room
+Informal Dining Room
+A long wooden table is in the center of the room. It is probably twelve feet long, and thick, coarse ropes sit on
+the end closest to you. The table has deep cut marks in the wood and is stained with blood. You shrug this off 
+until you realize it isn't your ordinary meat room. In the far corner of the room, a human body hangs from a meat
+hook and is draining into a large wooden barrel. He is bleeding from two puncture wounds in his neck, and his hand
+is on the table in front of you. There is one door to the south.
+
+Dining Room
+Dining Room
+A family portrait of a historic Serbian family inside of a finely, crafted wooden frame hangs on the north wall. 
+There is a grand fireplace to the west, and there is a door to its left. The center of the room is dominated by 
+a massive dining room table that seats twelve people. There are doors to the east and south.
+
+Ballroom
+Ballroom
+
+Drinking Room
+Drinking Room
+A glass of whiskey rests on a small round table next to an old leather chair.
+There is an exit to the west and the south, and a wooden bar stretches across the 
+east wall. There is a map on the bar.
+
+Sitting Room
+Sitting Room
+There is a large couch along the south wall, and chairs in both corners 
+opposite of the couch. A table lies between them. There are exits to the 
+west, north, and east.
+
+Grand Foyer
+Grand Foyer
+There are two burly, wooden doors to the west, and a staircase 
+to the south that curves upward. A crystal chandelier hangs from the ceiling
+above a white, polished marble floor. There are two large doors that swing outward to the east, and
+moonlight creeps through the thin crack between the doors.
+
+South Grand Foyer Staircase
+South Grand Foyer Staircase
+Red carpeted stairs lead to the west.
+
+South Hall, Floor Two
+South Hall, Floor Two
+There is a door to the west. The hall leads north.
+
+Center Hall, Floor Two
+Center Hall, Floor Two
+
+North Hall, Floor Two
+North Hall, Floor Two
+There is a door to the west.
+
+Library
+Library
+There is a door to the west, and a door to the east. Ancient books line the
+north and south walls, and a fireplace burns slowly.
+
+Hidden Staircase
+Hidden Staircase
+There is a passage to the west, and a door to the south. The door to the south
+is a large wooden door. When you look west, you can see several objects glimmering.
+
+Treasure Room
+Treasure Room
+Fiery torches burn on the north and south walls. The light emanating from 
+those torches illuminates a room laden with bountiful treasures. If you 
+choose to loot, and if you escape Night Manor, you will be very wealthy.
+A small treasure bag lies on the floor in front of your feet. 
+
+Master Bedroom
+Master Bedroom
+A king sized bed with an intricately designed wooden headboard occupies 
+the center of the room. There is a bedside cabinet to its left, and a medium treasure 
+bag lies on a small coffee table next to a candle and pile of documents. This room
+has one exit to the north.
+
+Bat Cave
+Bat Cave
+You find yourself in a cold, damp cave surrounded by rocks covered in bat droppings. The only exit is to
+the south, down a dark tunnel. Just say "climb down" to enter the tunnel.
+
+Spider Web
+Spider Web
+After crawling in the darkness for some time, you take one more step, fall down a long chute, and land in a massive spider web. 
+If you want to escape, you must remove enough spider threads to free yourself. However, if one of the colossal spiders
+wakes, you will become dinner. Enter "more instructions" for details on how to avoid being eaten.
+
+Dark Hall
+Dark Hall
+A long, narrowing hall with constricting walls and layers of cobwebs lies in front of you.
+Go west to walk, then crawl down this hall. 
+
+Tunnel Room 0
+Tunnel Room 0
+There are passages to the west and east.
+
+Tunnel Room 1
+Tunnel Room 1
+There is a passage to the west and a passage to the south.
+
+Tunnel Room 2
+Tunnel Room 2
+There is a passage to the south and a passage to the east.
+
+Tunnel Room 3
+Tunnel Room 3
+There is a passage to the south and a passage to the west.
+
+Tunnel Room 4
+Tunnel Room 4
+There is a passage to the south and a passage to the east.
+
+Tunnel Room 5
+Tunnel Room 5
+There are passages to the north, south, and east.
+
+Tunnel Room 6
+Tunnel Room 6
+There are passages to the north, west, and south.
+
+Tunnel Room 7
+Tunnel Room 7
+There are passages to the north, south, and east.
+
+Tunnel Room 8
+Tunnel Room 8
+There are passages to the north, west, and east.
+
+Tunnel Room 9
+Tunnel Room 9
+There is a passage to the west and a passage to the south.
+
+Tunnel Room 10
+Tunnel Room 10
+There is a passage to the north and a passage to the west.
+
+Tunnel Room 11
+Tunnel Room 11
+There is a passage to the west and a passage to the east.
+
+Tunnel Room 12
+Tunnel Room 12
+There are passages to the north, south, and east.
+
+Tunnel Room 13
+Tunnel Room 13
+A golden key is lodged between two rocks. There is a passage to the north and a steel door to the south.
+
+Tunnel Room 14
+Tunnel Room 14
+There are passages to the north, south, and east.
+
+Tunnel Room 15
+Tunnel Room 15
+There are passages to the north, west, and south.
+
+Tunnel Room 16
+Tunnel Room 16
+There is a passage to the north and a passage to the east.
+
+Tunnel Room 17
+Tunnel Room 17
+There is a passage to the north and a passage to the west.
+
+Front of Night Manor
+Front of Night Manor
+
+Greenhouse
+Greenhouse
+You are outside Night Manor but still on the property.

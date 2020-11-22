@@ -1,0 +1,51 @@
+help basics
+Here is a list of some basic commands:
+"help": see a list of help options
+"look": look around the room
+"go north": move north
+"go south": move south
+"go east": move east
+"go west": move west
+"open door" or "open the door": open the door in the current room
+"close door" or "close the door": close the door in the current room
+"unlock door" or "unlock the door": unlock the door in the current room
+"lock door" or "lock the door": lock the door in the current room
+"quit": exit the game
+
+help
+Topics you can get help on:
+"Help Basics": A list of basic commands.
+"Help Commands": A longer list of commands.
+
+help commands
+Here is a longer list of commands:
+"take key" or "take the key": take the key in the current room and place it in inventory
+"take name of food": take the food item that you specified and put it in inventory 
+"take name of treasure": take the treasure item that you specified and put it in your treasure bag
+"take map": take the map
+"take name of treasure bag": take the specified treasure bag
+"open cabinet" or "open the cabinet": open the cabinet in the current room
+"check inventory": prints a menu that will display your inventory 
+"check treasure in bag": prints a list of the treasure in your treasure bag
+"check treasure in room": prints a list of the treasure in the treasure room if you are in the treasure room
+"remove name of treasure": removes the specified treasure from your treasure bag
+"check loot success": indicates whether you looted the total maximum value of treasure given the size of your treasure bag
+"use map": prints the shortest path from your current room to every other room on the map
+"take map": take a map and add it to your inventory
+
+spider trap
+Each of the spider threads has a number associated with it. That number is the likelihood 
+of removing the thread without waking a spider. The higher the number, the greater the chance of 
+success. When you are done removing threads, the remaining web must have the following properties. 
+If it doesn't have these properties the spiders will wake when you try to escape.
+1. All pairs of spiders must have at least one thread that connects them. 
+2. The total (or summed) likelihood of removing the remaining threads in the spider web is as small as possible. 
+3. There are no threads that start at a spider and circle back to that same spider. If there are, the integrity of 
+the spider web will be compromised, and the spiders and you will fall when you try to escape.
+Here are some helpful commands:
+1. "examine web" : see a list of the spiders, the threads that connect them, and the likelihood of successfully removing
+those threads
+2. "see instructions": see these instructions again
+3. "remove thread": remove a thread in the spider web
+4. "escape" : try to escape from the spider web
+5. "hint": to receive a hint (you get three)

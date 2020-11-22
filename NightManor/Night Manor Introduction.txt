@@ -1,0 +1,15 @@
+game introduction
+You have woken from a deep but restless slumber, which was full of nightmares, 
+only to find yourself living one. It is dark, damp, and difficult to see, and 
+you can hear thunder cracking nearby. Just as your eyes begin to adjust, you hear a voice 
+from the darkness say, Welcome to Night Manor! May you depart as abruptly as you arrived.
+My name is Jacob Night III, and this is my home. The manor that you 
+find yourself in is full of many dangers, and your adventures will 
+surely be perilous, perhaps even fatal. I would welcome you more graciously, 
+but my home was taken from me decades ago, and I fear for your safety. I 
+will leave you soon because the longer I talk, the less time you have, and 
+you must escape from this manor. Quickly! Before I leave, you must know that 
+there are friendly ghosts and evil ghouls who wander the premises of Night Manor. 
+They look similar, but do not mistake them. My poor home has become a terrible place! 
+I bid you farewell.
+For instructions on how to play Night Manor, type help.
